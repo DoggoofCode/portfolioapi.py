@@ -2,7 +2,7 @@
 
 # Configuration
 SCREEN_NAME="api"
-GIT_REPO_DIR="/root/profileholder/saver"   # Change this to your repo path
+GIT_REPO_DIR="/root/profileholder/portfolioapi.py"   # Change this to your repo path
 VENV_DIR="$GIT_REPO_DIR/.venv"       # Change if your venv is somewhere else
 PYTHON_MODULE="main:app"            # Adjust to your FastAPI app module
 
